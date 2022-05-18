@@ -12,7 +12,7 @@ Progress of Course Work will be tracked on the below Trello board and completed 
 
 | Category         | Course Name                                                   | Link                                                                          | Folder             | Status      |
 |------------------|---------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------|-------------|
-| Intro            | Python 4 Everybody                                            | https://www.py4e.com/                                                         | 01-PY4E            | Complete    |
-| Intro            | Introduction to Computer Science and Programming Using Python | https://www.edx.org/course/introduction-to-computer-science-and-programming-7 | 02-MIT6x           | In Progress |
-| Core Programming | CS50                                                          | https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home                | 03-CS50            | In Progress |
-| Core Programming | How to Code - Simple Data                                     | https://learning.edx.org/course/course-v1:UBCx+HtC1x+2T2017/home              | 04-How2Code-Simple | Not Started |
+| Intro            | Python 4 Everybody                                            | https://www.py4e.com/                                                         | 01-PY4E            | Complete      |
+| Intro            | Introduction to Computer Science and Programming Using Python | https://www.edx.org/course/introduction-to-computer-science-and-programming-7 | 02-MIT6x           | In Progress   |
+| Core Programming | CS50                                                          | https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home                | 03-CS50            | In Progress   |
+| Core Programming | How to Code - Simple Data                                     | https://learning.edx.org/course/course-v1:UBCx+HtC1x+2T2017/home              | 04-How2Code-Simple | Not Started   |
