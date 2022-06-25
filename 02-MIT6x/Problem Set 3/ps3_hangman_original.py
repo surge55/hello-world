@@ -1,5 +1,5 @@
 # Hangman game
-#
+# Original file downloaded from course site - please see ps3_hangman.py for submitted solution
 
 # -----------------------------------
 # Helper code

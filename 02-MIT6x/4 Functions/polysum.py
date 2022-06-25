@@ -17,16 +17,17 @@ import math
 def polysum(n, s):
     '''
 
-    :param n: an integer, number of sides
-    :param s: an integer, length of each side
-    :return: sum of the area of a regular polygon and the square of its perimeter. Rounded to 4 decimal places.
+    :param n: an integer, representing the number of sides of a polygon
+    :param s: an integer, representing the length of each side of a polygon
+    :return: a float, sum of the area of a regular polygon and the square of its perimeter. Rounded to 4 decimal places.
     '''
-
+    # area calculaion
     area = 0.25*n*s**2 / math.tan(math.pi/n)
-
+    
+    # perimeter calculation squared
     perimeter = (n*s)**2
 
     return round(area + perimeter, 4)
 
-# print(polysum(60,83))
+print(polysum(60,83))
 
